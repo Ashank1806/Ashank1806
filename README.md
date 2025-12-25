@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASHANK JADHAV</h1>
-<h3 align="center">passionate data scientist from India.</h3>
+<h3 align="center">A passionate data scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashank1806&label=Profile%20views&color=0e75b6&style=flat" alt="ashank1806" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4670a3ea-6b52-4111-b5eb-3f0625ddcde7">
