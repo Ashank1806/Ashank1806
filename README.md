@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data science and analytics.**
 
-- 💬 Ask me about **Machine learning,statistics.**
+- 💬 Ask me about **Machine learning, Statistics, Deep learning, MLOPS .**
 
 - 📫 How to reach me **ashankj321@gamil.com**
 
